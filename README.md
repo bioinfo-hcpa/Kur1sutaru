@@ -5,19 +5,28 @@
 
 
 
+📈  Currently members:
+
+Professor Dr. Andreza Martins
+Professor Dr. Mariana Recamonde-Mendoza
+Professor Dr. Ursula Matte
+
+Dr. Cristal Villalba  - post-doctoral researcher
+Dr. Nureyev Rodrigues - post-doctoral researcher
+Dr. Thayne Kowalski   - post-doctoral researcher
 
 
-</details>
-
-<br>
-
-<details open>
- <summary><b> Github Stats & Programming Languages Agnostic or Not:</b> </summary>  
-
-<br>
-
-<p align = "left">
- <img src = "https://github-readme-stats.vercel.app/api?username=bioinfo-hcpa&show_icons=true&theme=">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioinfo-hcpa&theme=&show_icons=true&hide_border=true" />
-</p>
-<br/>
+Ágnis grefenhagen
+Ana Mello
+Bernardo Trevizan
+Felipe Colombelli
+Gabriela Simões de Oliveira
+Laura Alencastro
+Laura Speggiorin
+Otávio Lovison
+Pâmella Borges
+Paola Barcelos Carneiro
+Rafaela Ramalho
+Renan Andrades
+Rodrigo Haas Bueno
+Thomas Vaitses Fontanari
