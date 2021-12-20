@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Hello there! Welcome to the Bioinformatics Core github repository!  🖥️ 🧬 
 
-You can use the [editor on GitHub](https://github.com/bioinfo-hcpa/bioinfo-hcpa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/lab/Nucleo-de-Bioinformatica-HCPA-NBioinfo-Mariana-Recamonde-Mendoza)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 📈  Currently members:
 
-# Header 1
-## Header 2
-### Header 3
+Professor Dr. Andreza Martins
+Professor Dr. Mariana Recamonde-Mendoza
+Professor Dr. Ursula Matte
 
-- Bulleted
-- List
+Dr. Cristal Villalba  - post-doctoral researcher
+Dr. Nureyev Rodrigues - post-doctoral researcher
+Dr. Thayne Kowalski   - post-doctoral researcher
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Ágnis grefenhagen
+Ana Mello
+Bernardo Trevizan
+Felipe Colombelli
+Gabriela Simões de Oliveira
+Laura Alencastro
+Laura Speggiorin
+Otávio Lovison
+Pâmella Borges
+Paola Barcelos Carneiro
+Rafaela Ramalho
+Renan Andrades
+Rodrigo Haas Bueno
+Thomas Vaitses Fontanari
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bioinfo-hcpa/bioinfo-hcpa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information, please visit <https://sites.google.com/hcpa.edu.br/area-do-pesquisador/servi%C3%A7os/diretoria-de-pesquisa>
+📧 bioinfo@hcpa.edu.br
